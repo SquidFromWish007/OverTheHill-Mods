@@ -1,8 +1,14 @@
 {
   "camera": "1.2.0",
+  "camera_url": "https://www.nexusmods.com/overthehill/mods/4",
   "unlockall": "1.3.0",
+  "unlockall_url": "https://www.nexusmods.com/overthehill/mods/5",
   "weather": "1.1.0",
+  "weather_url": "https://www.nexusmods.com/overthehill/mods/11",
   "radio": "1.1.0",
+  "radio_url": "https://www.nexusmods.com/overthehill/mods/13",
   "looks": "1.0.0",
-  "nights": "1.0.0"
+  "looks_url": "https://www.nexusmods.com/overthehill/mods/15",
+  "nights": "1.0.0",
+  "nights_url": "https://www.nexusmods.com/overthehill/mods/25"
 }
