@@ -1,7 +1,8 @@
 {
   "camera": "1.5",
   "camera_url": "https://www.nexusmods.com/overthehill/mods/4",
-  "unlockall": "1.5",
+  "unlockall": "1.6",
+  "unlockall_important": "Important hotfix: Achievements work again while the mod is installed, only the garage ones stay blocked. Region achievements you missed before come through when you load your save.",
   "unlockall_url": "https://www.nexusmods.com/overthehill/mods/5",
   "weather": "1.3",
   "weather_url": "https://www.nexusmods.com/overthehill/mods/11",
